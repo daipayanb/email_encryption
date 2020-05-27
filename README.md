@@ -1,4 +1,4 @@
-# email_encryption
+# Email Encryption
 Repository of code for sending and encrypting email using Python v3.4 .
 Due to RSA algorithm's limits, it uses AES to encrypt the message and subject of the email.
 It creates a .PEM for every new user login.
